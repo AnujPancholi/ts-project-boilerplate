@@ -1,5 +1,5 @@
 const getHelloWorld = (): string => {
-    return "Hello, world!";
-}
+  return "Hello, world!";
+};
 
 export default getHelloWorld;

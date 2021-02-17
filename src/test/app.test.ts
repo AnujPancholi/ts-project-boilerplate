@@ -1,9 +1,9 @@
-import getHelloWorld from '../app'
+import getHelloWorld from "../app";
 
-describe('#app',() => {
-    it('should return hello world',() => {
-        const message = getHelloWorld();
+describe("#app", () => {
+  it("should return hello world", () => {
+    const message = getHelloWorld();
 
-        expect(message).toBe("Hello, world!");
-    })
-})
+    expect(message).toBe("Hello, world!");
+  });
+});

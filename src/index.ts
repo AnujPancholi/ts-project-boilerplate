@@ -1,3 +1,3 @@
-import getHelloWorld from './app'
+import getHelloWorld from "./app";
 
-console.log(getHelloWorld())
+console.log(getHelloWorld());
