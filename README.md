@@ -34,6 +34,6 @@ This is a repo which can be used to quickly get a typescript project off the gro
 
 5.  Git hooks
 
-- `husky` used for precommit hook to run `lint-staged`
+- `husky` used for precommit hook to run `lint-staged` (NOTE: Uses husky v4 with the old method of configuring hooks, not v5)
 
 ---
