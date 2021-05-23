@@ -2,11 +2,21 @@
 
 This is a repo which can be used to quickly get a typescript project off the ground, made solely for my own convenience.
 
-## Steps
+## Steps to Create New Project
+
+#### Option A: Via an archive
 
 1. Download .zip
 2. Extract whereever
 3. Build project on top
+
+#### Option B: Cloning
+
+`git clone git@github.com:AnujPancholi/ts-project-boilerplate.git new-project-name-here | cd new-project-name-here | rm -rf .git`
+
+#### Option C: Use this template Repository
+
+It's a [template repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-repository-from-a-template), just click on "Use This Template".
 
 ## Features:
 
