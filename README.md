@@ -12,7 +12,7 @@ This is a repo which can be used to quickly get a typescript project off the gro
 
 #### Option B: Cloning
 
-`git clone git@github.com:AnujPancholi/ts-project-boilerplate.git new-project-name-here | cd new-project-name-here | rm -rf .git`
+`git clone git@github.com:AnujPancholi/ts-project-boilerplate.git new-project-name-here && cd new-project-name-here && rm -rf .git`
 
 #### Option C: Use this template Repository
 
