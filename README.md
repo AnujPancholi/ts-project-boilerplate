@@ -6,7 +6,7 @@ This is a repo which can be used to quickly get a typescript project off the gro
 
 #### Option A: Via an archive
 
-1. Download .zip
+1. Download the .zip
 2. Extract whereever
 3. Build project on top
 
